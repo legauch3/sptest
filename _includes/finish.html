@@ -1,31 +1,13 @@
-<section class="success" id="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>About</h2>
-                <hr class="star-light">
-            </div>
-        </div>
-        <div class="row">
-            {% for post in site.tags.about %}
-            <p>{{ post.content }}</p>
-            {% endfor %}
-        </div>
-    </div>
-</section>
-
-
-
 <section id="services">
     
-    <div class="container portfolio-flex-grid">
-        <div class="row">
+    <div class="container portfolio-flex-grid containeradd">
+        <div class="row" id="portgap">
             <div class="col-lg-12 text-center">
                 <h2>Services
                 </h2>
-                <hr class="star-primary">
-                 {% for post in site.categories.sectioins %}
-                    <p>{{ post.content }}</p>
+                <hr class="wrench-primary">
+                 {% for post in site.tags.service %}
+                    {{ post.content }}
                     {% endfor %}
             </div>
         </div>
@@ -39,7 +21,9 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <h4>{{ post.title }}</h4>
+                        <ul>
+                            <li><h5>{{ post.title }}</h5></li>
+                        </ul>
                     </a>
                 </div>
             {% endfor %}
@@ -47,5 +31,21 @@
     </div>
 </section>
 
-
+<section class="success" id="about">
+    <div class="container containeradd">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>About</h2>
+                <hr class="star-light">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                {% for post in site.tags.about %}
+                <p>{{ post.content }}</p>
+                {% endfor %}
+            
+        </div>
+    </div>
+</section>
 
