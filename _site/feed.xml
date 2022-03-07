@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/sptest/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" />
-  <updated>2022-03-07T03:46:11+11:00</updated>
-  <id>http://localhost:4000/sptest/</id>
+  <link href="http://localhost:3000/sptest/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" />
+  <updated>2022-03-07T16:01:38+11:00</updated>
+  <id>http://localhost:3000/sptest/</id>
 
   
     <title type="html">SPTest</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Blocked Drain Specialists</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Blocked Drain Specialists" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Blocked Drain Specialists" />
       <published>2014-07-18T00:00:00+10:00</published>
       <updated>2014-07-18T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Blocked-drain-specialists</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/Blocked-drain-specialists</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -55,11 +55,11 @@
   
     <entry>
       <title type="html">Cctv Pipe Inspections &amp;amp; Locating</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Cctv Pipe Inspections &amp; Locating" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Cctv Pipe Inspections &amp; Locating" />
       <published>2014-07-17T00:00:00+10:00</published>
       <updated>2014-07-17T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/CCTV-pipe-inspections-&amp;-locating</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/CCTV-pipe-inspections-&amp;-locating</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -89,11 +89,11 @@
   
     <entry>
       <title type="html">Leak Detection &amp;amp; Repairs</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Leak Detection &amp; Repairs" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Leak Detection &amp; Repairs" />
       <published>2014-07-16T00:00:00+10:00</published>
       <updated>2014-07-16T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Leak-detection-&amp;-repairs</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/Leak-detection-&amp;-repairs</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">Services</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Services" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Services" />
       <published>2014-07-15T00:00:00+10:00</published>
       <updated>2014-07-15T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/services</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/">&lt;p&gt;Content Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.&lt;/p&gt;</content>
+      <id>http://localhost:3000/sptest/services</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/">&lt;p&gt;Content Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.&lt;/p&gt;</content>
 
       
       
@@ -157,11 +157,11 @@
   
     <entry>
       <title type="html">About</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="About" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="About" />
       <published>2014-07-15T00:00:00+10:00</published>
       <updated>2014-07-15T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/about</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/">&lt;p&gt;&lt;img src=&quot;/sptest/img/test/profile250.png&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive test2&quot; /&gt;&lt;/p&gt;
+      <id>http://localhost:3000/sptest/about</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/">&lt;p&gt;&lt;img src=&quot;/sptest/img/test/profile250.png&quot; alt=&quot;image-title-here&quot; class=&quot;img-responsive test2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Content Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.&lt;/p&gt;</content>
 
@@ -192,12 +192,46 @@
     </entry>
   
     <entry>
-      <title type="html">Hot Water Services</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Hot Water Services" />
+      <title type="html">Contact</title>
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Contact" />
       <published>2014-07-15T00:00:00+10:00</published>
       <updated>2014-07-15T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Hot-water-services</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/contact</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/">&lt;p&gt;&lt;a href=&quot;test&quot; class=&quot;btn-social btn-outline&quot;&gt;&lt;i class=&quot;fa fa-fw fa-regular fa-at&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="contact" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Hot Water Services</title>
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Hot Water Services" />
+      <published>2014-07-15T00:00:00+10:00</published>
+      <updated>2014-07-15T00:00:00+10:00</updated>
+      <id>http://localhost:3000/sptest/Hot-water-services</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -227,11 +261,11 @@
   
     <entry>
       <title type="html">Gasfitting Work</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Gasfitting Work" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Gasfitting Work" />
       <published>2014-07-15T00:00:00+10:00</published>
       <updated>2014-07-15T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Gasfitting-work</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/Gasfitting-work</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -261,11 +295,11 @@
   
     <entry>
       <title type="html">Roofing &amp;amp; Gutters copy</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Roofing &amp; Gutters   copy" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Roofing &amp; Gutters   copy" />
       <published>2014-07-14T00:00:00+10:00</published>
       <updated>2014-07-14T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Roofing-&amp;-gutters%20-%20Copy</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/Roofing-&amp;-gutters%20-%20Copy</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       
@@ -295,45 +329,11 @@
   
     <entry>
       <title type="html">Renovations</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="Renovations" />
+      <link href="http://localhost:3000/sptest/" rel="alternate" type="text/html" title="Renovations" />
       <published>2014-07-14T00:00:00+10:00</published>
       <updated>2014-07-14T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/Renovations</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">New Projects</title>
-      <link href="http://localhost:4000/sptest/" rel="alternate" type="text/html" title="New Projects" />
-      <published>2014-07-14T00:00:00+10:00</published>
-      <updated>2014-07-14T00:00:00+10:00</updated>
-      <id>http://localhost:4000/sptest/New-projects</id>
-      <content type="html" xml:base="http://localhost:4000/sptest/"></content>
+      <id>http://localhost:3000/sptest/Renovations</id>
+      <content type="html" xml:base="http://localhost:3000/sptest/"></content>
 
       
       

@@ -89,13 +89,7 @@ hr.wrench-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: url("/sptest/img/test/header.jpg"); /* #{{ site.color.primary }}; */
-    opacity: 0.35;
-    background-size: cover;
-    -moz-box-shadow:    inset 0 0 125px #ffffff;
-    -webkit-box-shadow: inset 0 0 125px #ffffff;
-    box-shadow:         inset 0 0 125px #ffffff;
-    background-position: center;
+    background: #{{ site.color.primary }}; 
 }
 
 header .container {
@@ -128,7 +122,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 175px;
-        padding-bottom: 100px;
+        padding-bottom: 63px;
     }
 
     header .intro-text .name {
@@ -142,7 +136,6 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -155,9 +148,6 @@ header .intro-text .skills {
         transition: all .3s;
     }
 
-    .navbar-fixed-top.navbar-shrink {
-        padding: 10px 0;
-    }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
@@ -185,6 +175,7 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+    background: #364350;
 }
 
 section {
@@ -334,7 +325,7 @@ section.success {
     padding-left: 0;
     border: 0;
     border-radius: 0;
-    font-size: 1.5em;
+    font-size: 20px;
     background: 0 0;
     box-shadow: none!important;
     resize: none;
@@ -399,13 +390,13 @@ footer .footer-below {
 
 .btn-social {
     display: inline-block;
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
     border: 2px solid #fff;
     border-radius: 100%;
     text-align: center;
-    font-size: 20px;
-    line-height: 45px;
+    font-size: 17px;
+    line-height: 33px;
 }
 
 .btn:focus,
@@ -513,10 +504,12 @@ div#portgap {
 
 .test2 {
     margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .containeradd {
-    max-width: 1000px;
+    max-width: 925px;
 }
 
 .spheadimg {
@@ -528,4 +521,40 @@ div#portgap {
     margin: auto;
     background-position: center;
     margin-bottom: 25px;
+}
+
+.sphead0 {
+    position: relative;
+    z-index: 1;
+}
+
+
+.sphead0:before {
+    content: " ";
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    height: 100%;  
+    text-align: center;
+    position: absolute;
+    color: #fff;
+    background: url("/sptest/img/test/header.jpg"); /* #{{ site.color.primary }}; */
+    opacity: 0.35;
+    background-size: cover;
+    -moz-box-shadow:    inset 0 0 125px #ffffff;
+    -webkit-box-shadow: inset 0 0 125px #ffffff;
+    box-shadow:         inset 0 0 125px #ffffff;
+    background-position: center;
+    z-index: -1;
+}
+
+.navbar-shrink {
+    background: url(/sptest/img/test/logotest2.png), #364350 !important;
+    background-repeat: no-repeat !IMPORTANT;
+    background-size: contain;
+    BACKGROUND-POSITION-X: CENTER !IMPORTANT;
+}
+
+.img-add {
+    max-width: 350px !important;
 }
