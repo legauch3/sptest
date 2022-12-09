@@ -7,7 +7,7 @@ img: submarine.png
 alt: image-alt
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
-![image-title-here](/sptest/img/test/profile250.png){:class="img-responsive test2"}
+![image-title-here](/sptest/img/test/profile.png){:class="img-responsive test2"}
 
 <b>Harry</b> is bueoasdfasrtadf
 <ul><li>number</li>
